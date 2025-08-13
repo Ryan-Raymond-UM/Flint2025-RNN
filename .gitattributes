@@ -1,0 +1,5 @@
+x.pickle filter=lfs diff=lfs merge=lfs -text
+x-small.pickle filter=lfs diff=lfs merge=lfs -text
+y.pickle filter=lfs diff=lfs merge=lfs -text
+y-small.pickle filter=lfs diff=lfs merge=lfs -text
+*.pickle filter=lfs diff=lfs merge=lfs -text
